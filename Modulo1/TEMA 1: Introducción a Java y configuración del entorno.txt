@@ -1,0 +1,21 @@
+¿Que es java?
+
+Es un lenguaje de programacion orientado a objetos
+Fue creado por Sun Microsystem y ahora es propiedad de Oracle
+Tambien es multiplataforma es decir que se puede ejecutar en cualquier sistema operativo con el mismo codigo gracias a la Java Virtual Machine (JVM)
+
+
+Es usado para:
+
+* aplicaciones de escritotio
+* aplicaciones web
+* android
+* sistemas empresariales
+
+#PASOS PARA CONFIGURAR TU ENTORNO:
+
+#PASO  1: INSTALAR: jDK (Java Development Kit)
+--Incluye el compilador y herramientas necesarias
+--DESDE: https://www.oracle.com/java/technologies/javase-downloads.html
+#PASO 2: IntelliJ IDEA (muy completo)
+--DESDE: https://www.jetbrains.com/idea/
