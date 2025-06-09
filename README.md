@@ -42,21 +42,7 @@
 - Interfaces gráficas con JavaFX o Swing  
 - Conexión a bases de datos con JDBC  
 - Crear aplicaciones Android (Android usa Java/Kotlin)  
-- Programación en red (Sockets, HTTP)
-
----
-
-# PASO 1: INSTALAR JDK (Java Development Kit)
-- Incluye el compilador y herramientas necesarias  
-- Descargar desde: https://www.oracle.com/java/technologies/javase-downloads.html
-
-# PASO 2: INSTALAR IntelliJ IDEA
-- Muy completo y recomendado  
-- Descargar desde: https://www.jetbrains.com/idea/
-
----
-## 📚 Estilo Java: Convenciones de nomenclatura
-- Leer: https://www.geeksforgeeks.org/java-naming-conventions/
+- Programación en red (Sockets, HTTP)  
 
 
 
