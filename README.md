@@ -1,15 +1,3 @@
-# Aprendiendo-java-desde-0
-
-# PASO 1: INSTALAR JDK (Java Development Kit)
-- Incluye el compilador y herramientas necesarias  
-- Descargar desde: https://www.oracle.com/java/technologies/javase-downloads.html
-
-# PASO 2: INSTALAR IntelliJ IDEA
-- Muy completo y recomendado  
-- Descargar desde: https://www.jetbrains.com/idea/
-
----
-
 # 🧭 PLAN DE ESTUDIO: JAVA DESDE CERO
 
 ## 🟩 MÓDULO 1: Fundamentos de Java
@@ -58,6 +46,15 @@
 
 ---
 
+# PASO 1: INSTALAR JDK (Java Development Kit)
+- Incluye el compilador y herramientas necesarias  
+- Descargar desde: https://www.oracle.com/java/technologies/javase-downloads.html
+
+# PASO 2: INSTALAR IntelliJ IDEA
+- Muy completo y recomendado  
+- Descargar desde: https://www.jetbrains.com/idea/
+
+---
 ## 📚 Estilo Java: Convenciones de nomenclatura
 - Leer: https://www.geeksforgeeks.org/java-naming-conventions/
 
