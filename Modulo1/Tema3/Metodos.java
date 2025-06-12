@@ -2,11 +2,11 @@ package Modulo1.Tema3;
 
 public class Metodos {
     //Variable de instancia
-    String nombre = "juan";
+    String nombre = "Juan";
 
     public void Saludo() {
         // imprime un mensaje y el valor de la variable de instancia
-        System.out.println("hola, me llamo " + nombre);
+        System.out.println("Hola, me llamo " + nombre);
     }
 
     public static void main(String[] args) {
