@@ -6,7 +6,7 @@
 * No tienen valor por defecto → deben ser inicializadas.  
 
 ## 🟦 Variables De Instancia
-* Se declaran fuera de los métodos, pero sin static.  
+* Se declaran fuera de los métodos, pero sin `static`.  
 * Son parte del objeto, por eso se accede a ellas con 'this'.  
 * Cada objeto tiene su propia copia.  
 * Pertenecen al objeto  
@@ -17,7 +17,7 @@
 * Solo hay una copia para todos los objetos.  
 * Pertenecen a la clase  
 
-## Nota: las variables 'estaticas' se puede pensar en ellas como una variable global pero dentro de una clase, porque:  
+## Nota: las variables `estaticas` se puede pensar en ellas como una variable global pero dentro de una clase, porque:  
 * Se comparten entre todos los objetos.  
 * Se puede acceder a ellas sin crear un objeto (Clase.nombreVariable).  
 * Solo hay una copia en memoria.  
