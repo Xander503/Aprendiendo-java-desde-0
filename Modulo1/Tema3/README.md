@@ -1,12 +1,10 @@
 # Metodos
 
 ## ¿Que es un metodo?
-* Un método es un bloque de código reutilizable que realiza una acción. Es como una función en otros lenguajes.  
-
----
+* Un método es un bloque de código reutilizable que realiza una acción. Es como una función en otros lenguajes.
 
 ## ¿Que es public?
-* 'public' es un modificador de acceso que controla quién puede usar el método. Existen otros modificadores como 'private' y 'protected' que limitan el acceso de diferentes formas.
+* 'public' es un modificador de acceso que controla quién puede usar el método. Existen otros modificadores como 'prívate' y 'protected' que limitan el acceso de diferentes formas.
 ---
 
 ## Notas:   
