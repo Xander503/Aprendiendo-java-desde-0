@@ -6,10 +6,10 @@
 
 # Es usado para:
 
-* aplicaciones de escritotio
-* aplicaciones web
-* android
-* sistemas empresariales
+* Aplicaciones de escritotio
+* Aplicaciones web
+* Android
+* Sistemas empresariales
 
 ---
 
