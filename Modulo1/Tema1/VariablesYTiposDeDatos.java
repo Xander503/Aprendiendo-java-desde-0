@@ -1,4 +1,4 @@
-package Modulo1;
+package Modulo1.Tema1;
 
 public class VariablesYTiposDeDatos {
 
