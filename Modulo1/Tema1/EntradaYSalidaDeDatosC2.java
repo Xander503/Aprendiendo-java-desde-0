@@ -1,10 +1,10 @@
-package Modulo1.Tema4;
+package Modulo1.Tema1;
 
 // importamos la clase Scanner del paquete java.util
 
 import java.util.Scanner;
 
-public class EntradaYSalidaDeDatos {
+public class EntradaYSalidaDeDatosC2 {
 
     public static void main(String[] args) {
         // Creamos un objeto Scanner para poder leer datos que el usuario escriba por teclado

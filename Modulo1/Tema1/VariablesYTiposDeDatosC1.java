@@ -1,6 +1,6 @@
 package Modulo1.Tema1;
 
-public class VariablesYTiposDeDatos {
+public class VariablesYTiposDeDatosC1 {
 
     public static void main(String[] args) {
 
